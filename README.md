@@ -4,6 +4,14 @@
 
 This repository contains a structured roadmap of **Qiskit projects**, designed to guide learners from fundamental concepts to advanced quantum computing techniques. Each project focuses on a key aspect of Qiskit’s SDK, enabling us to; Build a solid foundation in quantum circuits and algorithms and; Develop device-level understanding using transpilation, mitigation, and pulse control.
 
+---
+## Why Qiskit?
+
+- Developed by IBM, Qiskit is the most widely used open-source quantum framework with excellent documentation and community support.  
+- It supports a full-stack workflow: from high-level circuits and algorithms to low-level pulse control.  
+- Qiskit includes domain libraries (Finance, Nature, Machine Learning) that link quantum computing to real-world use cases.
+
+---
 ## Sequential Project List
 
 1. **“Hello World” & Bell State**
@@ -60,22 +68,5 @@ Each project includes:
 
 ---
 
-## Why Qiskit?
 
-- Developed by IBM, Qiskit is the most widely used open-source quantum framework with excellent documentation and community support.  
-- It supports a full-stack workflow: from high-level circuits and algorithms to low-level pulse control.  
-- Qiskit includes domain libraries (Finance, Nature, Machine Learning) that link quantum computing to real-world use cases.
-
----
-
-
-## References
-
-Key resources that inspired this roadmap:
-
-- Qiskit official tutorials and guides – foundational learning :contentReference[oaicite:1]{index=1}  
-- Qiskit Machine Learning tutorials – for hybrid quantum approaches :contentReference[oaicite:2]{index=2}  
-- Community tutorials and cookbook – real-world examples :contentReference[oaicite:3]{index=3}
-
----
 
