@@ -29,7 +29,7 @@ This repository contains a structured roadmap of **Qiskit projects**, designed t
 
 ---
 
-## 🏆 Learning Outcomes
+## Learning Outcomes
 
 - **Circuit fundamentals** (gates, measurement, entanglement, sampling)
 - **Core quantum algorithms** (Grover’s, Shor’s, QAOA, VQE)
@@ -39,7 +39,7 @@ This repository contains a structured roadmap of **Qiskit projects**, designed t
 
 ---
 
-## 📚 Teaching Framework
+## Teaching Framework
 
 Each project includes:
 
@@ -51,7 +51,7 @@ Each project includes:
 
 ---
 
-## 🔗 Getting Started
+## Getting Started
 
 1. Clone this repo.
 2. `pip install qiskit` (ensure latest 2.x version) along with optional extras (`qiskit-aer`, `qiskit-ibm-runtime`, etc.).
@@ -60,7 +60,7 @@ Each project includes:
 
 ---
 
-## 🧠 Why Qiskit?
+## Why Qiskit?
 
 - Developed by IBM, Qiskit is the most widely used open-source quantum framework with excellent documentation and community support.  
 - It supports a full-stack workflow: from high-level circuits and algorithms to low-level pulse control.  
@@ -68,19 +68,8 @@ Each project includes:
 
 ---
 
-## ✅ Contribution
 
-We welcome contributions:
-
-- Bug fixes, optimizations, documentation improvements
-- New teaching modules or problem variants
-- Interfaces to other quantum devices or frameworks
-
-See [CONTRIBUTING.md] for guidelines.
-
----
-
-## 📖 References
+## References
 
 Key resources that inspired this roadmap:
 
@@ -90,4 +79,3 @@ Key resources that inspired this roadmap:
 
 ---
 
-> **Team Quantum Club** – Building India’s next generation of quantum leaders 🧩
