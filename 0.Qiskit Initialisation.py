@@ -1,29 +1,28 @@
 # Qiskit Initialization: 
 
-# --- 1. CORE CIRCUIT CREATION ---
+# 1. CORE CIRCUITS
 # QuantumCircuit is the central object to build quantum algorithms
 from qiskit import QuantumCircuit, transpile, assemble
 
-# --- 2. EXECUTION BACKENDS ---
+#2. EXECUTION 
 # Aer provides simulators for testing quantum circuits locally
 from qiskit.providers.aer import AerSimulator
 
 # IBMQ is used for running circuits on actual quantum devices
-# from qiskit_ibm_provider import IBMProvider  # Uncomment when using IBM Quantum devices
+from qiskit_ibm_provider import IBMProvider  # Uncomment when using IBM Quantum devices
 
-# --- 3. VISUALIZATION TOOLS ---
+#3. VISUALIZATION TOOLS
 # Tools to visualize circuits and results (like measurement histograms)
 from qiskit.visualization import plot_histogram, plot_bloch_multivector
 import matplotlib.pyplot as plt
 
-# --- 4. STATEVECTOR SIMULATION (Optional but powerful) ---
+# 4. STATEVECTOR SIMULATION
 # Used for inspecting quantum state (amplitudes) at any point
 from qiskit.quantum_info import Statevector
 
-# --- 5. OTHER UTILITIES ---
+#5. OTHER 
 import numpy as np
 
-# Step-by-step example:
 
 # Create a simple quantum circuit with 2 qubits and 2 classical bits
 qc = QuantumCircuit(2, 2)
@@ -53,7 +52,7 @@ print("Measurement Counts:", counts)
 plot_histogram(counts)
 plt.show()
 
-# --- Optional: Visualize statevector before measurement ---
+#Visualize statevector before measurement
 # Reset circuit to exclude measurement and inspect state
 qc2 = QuantumCircuit(2)
 qc2.h(0)
