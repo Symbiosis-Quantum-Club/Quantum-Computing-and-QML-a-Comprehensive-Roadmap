@@ -56,7 +56,11 @@ Each project includes:
 - Data visualization (plots, Bloch spheres, performance graphs).
 
 ---
+## Some Insightful Research Papers
 
+- https://arxiv.org/abs/1411.4028 ; A Quantum Approximate Optimization Algorithm
+
+---
 ## Getting Started
 
 1. Clone this repo.
