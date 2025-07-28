@@ -53,9 +53,7 @@ Each project includes:
 
 - A clear problem statement explaining relevance and context.
 - Code templates and Jupyter notebooks with annotated explanations.
-- An example of execution on both simulator and quantum backend.
 - Data visualization (plots, Bloch spheres, performance graphs).
-- “Show your work” content suitable for Twitter/X threads and blog posts.
 
 ---
 
