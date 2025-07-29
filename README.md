@@ -68,14 +68,22 @@ Each project includes:
 - https://github.com/joydeb1729/Quantum-Computing-With-Cirq
 ---
 ## Foundational QC Textbooks
+- https://files.batistalab.com/teaching/attachments/chem584/Mosca.pdf ; An Introduction to Quantum Computing
 - https://profmcruz.wordpress.com/wp-content/uploads/2017/08/quantum-computation-and-quantum-information-nielsen-chuang.pdf  ; Quantum Computation and Quantum Information" by Nielsen & Chuang (2000, 2nd ed. 2010)
-- 
+- https://arxiv.org/pdf/quant-ph/9812037 ; Quantum Computation by Dorit Aharonov
 ---
 ## Some Insightful Research Papers
+Introductory Principles
+- https://arxiv.org/pdf/quant-ph/9809016 ; An Introduction to Quantum Computing for Non‑Physicists
 - https://arxiv.org/pdf/2310.10315 ; A Survey on Quantum Machine Learning: Basics, Current Trends, Challenges, Opportunities, and the Road Ahead
 - https://quantum-journal.org/papers/q-2018-08-06-79/pdf/ ; Quantum Computing in the NISQ era and beyond
+
+
+Further Concepts
+- https://link.springer.com/article/10.1007/s11569-022-00424-z ; Historical Roots and Seminal Papers of Quantum Technology 2.0
 - https://arxiv.org/abs/1411.4028 ; A Quantum Approximate Optimization Algorithm
--
+- https://arxiv.org/pdf/2011.01938 ; Power of data in quantum machine learning
+- https://arxiv.org/pdf/1509.04279 ; The theory of variational hybrid quantum-classical algorithms
 
 ---
 ## Getting Started
