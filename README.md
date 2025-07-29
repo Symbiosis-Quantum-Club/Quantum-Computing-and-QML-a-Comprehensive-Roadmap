@@ -1,16 +1,20 @@
-# Quantum Programming Roadmap
+# A Quantum Programming Roadmap
 
 ## Overview
 
-This repository contains a structured roadmap of **Qiskit projects**, designed to guide learners from fundamental concepts to advanced quantum computing techniques. Each project focuses on a key aspect of Qiskit’s SDK, enabling us to; Build a solid foundation in quantum circuits and algorithms and; Develop device-level understanding using transpilation, mitigation, and pulse control.
+This repository contains a structured roadmap of **Quantum Porgramming and Quantum Machine Learning**, designed to guide learners from fundamental concepts to advanced quantum computing techniques. Each project focuses on a key aspect of Qiskit’s SDK, enabling us to; Build a solid foundation in quantum circuits and algorithms and; Develop device-level understanding using transpilation, mitigation, and pulse control.
 
 ---
-## Why Qiskit?
+## What is Qiskit?
 
 - Developed by IBM, Qiskit is the most widely used open-source quantum framework with excellent documentation and community support.  
 - It supports a full-stack workflow: from high-level circuits and algorithms to low-level pulse control.  
 - Qiskit includes domain libraries (Finance, Nature, Machine Learning) that link quantum computing to real-world use cases.
-
+---
+## What is Cirq?
+-
+-
+-
 ---
 ## Sequential Project List
 
@@ -65,8 +69,9 @@ Each project includes:
 
 - https://github.com/BrianOtieno/quantum-computing/tree/main
 - https://github.com/MonitSharma/Learn-Quantum-Computing-with-Qiskit
+- https://github.com/quantumlib/Cirq
 - https://github.com/PennyLaneAI/qml
-- 
+- https://github.com/joydeb1729/Quantum-Computing-With-Cirq
 - 
 ---
 ## Getting Started
