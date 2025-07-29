@@ -61,18 +61,22 @@ Each project includes:
 
 ---
 ## Github Repos You Should Check out
-
-- https://arxiv.org/abs/1411.4028 ; A Quantum Approximate Optimization Algorithm
-
----
-## Some Insightful Research Papers
-
 - https://github.com/BrianOtieno/quantum-computing/tree/main
 - https://github.com/MonitSharma/Learn-Quantum-Computing-with-Qiskit
 - https://github.com/quantumlib/Cirq
 - https://github.com/PennyLaneAI/qml
 - https://github.com/joydeb1729/Quantum-Computing-With-Cirq
+---
+## Foundational QC Textbooks
+- https://profmcruz.wordpress.com/wp-content/uploads/2017/08/quantum-computation-and-quantum-information-nielsen-chuang.pdf  ; Quantum Computation and Quantum Information" by Nielsen & Chuang (2000, 2nd ed. 2010)
 - 
+---
+## Some Insightful Research Papers
+- https://arxiv.org/pdf/2310.10315 ; A Survey on Quantum Machine Learning: Basics, Current Trends, Challenges, Opportunities, and the Road Ahead
+- https://quantum-journal.org/papers/q-2018-08-06-79/pdf/ ; Quantum Computing in the NISQ era and beyond
+- https://arxiv.org/abs/1411.4028 ; A Quantum Approximate Optimization Algorithm
+-
+
 ---
 ## Getting Started
 
