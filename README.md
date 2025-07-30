@@ -84,6 +84,7 @@ Introductory Principles
 
 
 Further Concepts
+- https://arxiv.org/abs/1304.3061 ; A variational eigenvalue solver on a quantum processor
 - https://link.springer.com/article/10.1007/s11569-022-00424-z ; Historical Roots and Seminal Papers of Quantum Technology 2.0
 - https://arxiv.org/abs/1411.4028 ; A Quantum Approximate Optimization Algorithm
 - https://arxiv.org/pdf/1810.03787 ; Quantum Convolutional Neural Networks
