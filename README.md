@@ -17,7 +17,7 @@ This repository contains a structured roadmap of **Quantum Programming and Quant
 - Building Quantum Circuits: Cirq lets you design quantum circuits from scratch, choosing specific quantum gates (like Hadamard, CNOT, Rx) and applying them to individual qubits.
 - Simulating Quantum Programs: You can run your quantum circuits on a simulator right on your own computer, allowing you to test and debug your quantum algorithms before trying them on actual quantum hardware.
 
--Running on Quantum Hardware: Cirq integrates with Google's quantum processors (like Sycamore), enabling you to execute your designed circuits on real quantum computers.
+- Running on Quantum Hardware: Cirq integrates with Google's quantum processors (like Sycamore), enabling you to execute your designed circuits on real quantum computers.
 
 ---
 ## Sequential Project List
