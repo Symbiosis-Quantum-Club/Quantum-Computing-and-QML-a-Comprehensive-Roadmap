@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a structured roadmap of **Quantum Porgramming and Quantum Machine Learning**, designed to guide learners from fundamental concepts to advanced quantum computing techniques. Each project focuses on a key aspect of Qiskit’s SDK, enabling us to; Build a solid foundation in quantum circuits and algorithms and; Develop device-level understanding using transpilation, mitigation, and pulse control.
+This repository contains a structured roadmap of **Quantum Programming and Quantum Machine Learning**, designed to guide learners from fundamental concepts to advanced quantum computing techniques. Each project focuses on a key aspect of Qiskit’s SDK, enabling us to; Build a solid foundation in quantum circuits and algorithms and; Develop device-level understanding using transpilation, mitigation, and pulse control.
 
 ---
 ## What is Qiskit?
@@ -12,9 +12,11 @@ This repository contains a structured roadmap of **Quantum Porgramming and Quant
 - Qiskit includes domain libraries (Finance, Nature, Machine Learning) that link quantum computing to real-world use cases.
 ---
 ## What is Cirq?
--
--
--
+-An open source quantum framework developed by Google. It's designed for "NISQ" (Noisy Intermediate-Scale Quantum) devices, meaning it gives you fine-grained control over gate placement and timing, which is crucial for experimenting with current quantum hardware.
+-Building Quantum Circuits: Cirq lets you design quantum circuits from scratch, choosing specific quantum gates (like Hadamard, CNOT, Rx) and applying them to individual qubits.
+-Simulating Quantum Programs: You can run your quantum circuits on a simulator right on your own computer, allowing you to test and debug your quantum algorithms before trying them on actual quantum hardware.
+-Running on Quantum Hardware: Cirq integrates with Google's quantum processors (like Sycamore), enabling you to execute your designed circuits on real quantum computers.
+=Research and Development: It's a popular tool for quantum computing researchers and developers who need to explore new quantum algorithms, develop quantum error correction codes, or benchmark quantum hardware.
 ---
 ## Sequential Project List
 
