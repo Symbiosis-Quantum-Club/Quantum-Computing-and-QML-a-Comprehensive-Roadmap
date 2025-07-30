@@ -1,8 +1,8 @@
-# A Quantum Programming Roadmap
+# Quantum Programming and QML; a Comprehensive Roadmap
 
-## Overview
+## Overview:
 
-This repository contains a structured roadmap of **Quantum Programming and Quantum Machine Learning**, designed to guide learners from fundamental concepts to advanced quantum computing techniques. Each project focuses on a key aspect of Qiskit’s SDK, enabling us to; Build a solid foundation in quantum circuits and algorithms and; Develop device-level understanding using transpilation, mitigation, and pulse control.
+This repository contains a structured roadmap of **Quantum Programming and Quantum Machine Learning**, designed to guide learners from fundamental concepts to advanced quantum computing techniques. Each project focuses on a key aspect of Qiskit and Cirq, enabling us to build a solid foundation in quantum circuits and algorithms and develop device-level understanding using transpilation, mitigation, and pulse control.
 
 ---
 ## What is Qiskit?
@@ -20,7 +20,7 @@ This repository contains a structured roadmap of **Quantum Programming and Quant
 - Running on Quantum Hardware: Cirq integrates with Google's quantum processors (like Sycamore), enabling you to execute your designed circuits on real quantum computers.
 
 ---
-## Sequential Project List
+## Sequential Project List:
 
 1. **“Hello World” & Bell State**
    - Create and run a 2-qubit entanglement circuit on simulator and real QPU.
@@ -45,7 +45,7 @@ This repository contains a structured roadmap of **Quantum Programming and Quant
 
 ---
 
-## Learning Outcomes
+## Learning Outcomes:
 
 - **Circuit fundamentals** (gates, measurement, entanglement, sampling)
 - **Core quantum algorithms** (Grover’s, Shor’s, QAOA, VQE)
@@ -60,23 +60,23 @@ This repository contains a structured roadmap of **Quantum Programming and Quant
 Each project includes:
 
 - A clear problem statement explaining relevance and context.
-- Code templates and Jupyter notebooks with annotated explanations.
+- Jupyter notebooks with annotated explanations.
 - Data visualization (plots, Bloch spheres, performance graphs).
 
 ---
-## Github Repos You Should Check out
+## Github Repos You Should Check out:
 - https://github.com/BrianOtieno/quantum-computing/tree/main
 - https://github.com/MonitSharma/Learn-Quantum-Computing-with-Qiskit
 - https://github.com/quantumlib/Cirq
 - https://github.com/PennyLaneAI/qml
 - https://github.com/joydeb1729/Quantum-Computing-With-Cirq
 ---
-## Foundational QC Textbooks
+## Foundational QC Textbooks:
 - https://files.batistalab.com/teaching/attachments/chem584/Mosca.pdf ; An Introduction to Quantum Computing
 - https://profmcruz.wordpress.com/wp-content/uploads/2017/08/quantum-computation-and-quantum-information-nielsen-chuang.pdf  ; Quantum Computation and Quantum Information" by Nielsen & Chuang (2000, 2nd ed. 2010)
 - https://arxiv.org/pdf/quant-ph/9812037 ; Quantum Computation by Dorit Aharonov
 ---
-## Some Insightful Research Papers
+## Some Insightful Research Papers:
 Introductory Principles
 - https://arxiv.org/pdf/quant-ph/9809016 ; An Introduction to Quantum Computing for Non‑Physicists
 - https://arxiv.org/pdf/2310.10315 ; A Survey on Quantum Machine Learning: Basics, Current Trends, Challenges, Opportunities, and the Road Ahead
@@ -92,7 +92,7 @@ Further Concepts
 - https://arxiv.org/pdf/1509.04279 ; The theory of variational hybrid quantum-classical algorithms
 
 ---
-## Getting Started
+## Getting Started:
 
 1. Clone this repo.
 2. `pip install qiskit` (ensure latest 2.x version) along with optional extras (`qiskit-aer`, `qiskit-ibm-runtime`, etc.).
