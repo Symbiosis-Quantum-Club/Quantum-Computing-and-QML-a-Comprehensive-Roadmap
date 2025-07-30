@@ -13,8 +13,10 @@ This repository contains a structured roadmap of **Quantum Programming and Quant
 ---
 ## What is Cirq?
 -An open source quantum framework developed by Google. It's designed for "NISQ" (Noisy Intermediate-Scale Quantum) devices, meaning it gives you fine-grained control over gate placement and timing, which is crucial for experimenting with current quantum hardware.
+
 -Building Quantum Circuits: Cirq lets you design quantum circuits from scratch, choosing specific quantum gates (like Hadamard, CNOT, Rx) and applying them to individual qubits.
 -Simulating Quantum Programs: You can run your quantum circuits on a simulator right on your own computer, allowing you to test and debug your quantum algorithms before trying them on actual quantum hardware.
+
 -Running on Quantum Hardware: Cirq integrates with Google's quantum processors (like Sycamore), enabling you to execute your designed circuits on real quantum computers.
 
 ---
