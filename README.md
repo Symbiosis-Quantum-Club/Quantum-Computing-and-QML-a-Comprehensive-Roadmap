@@ -1,6 +1,6 @@
 # Quantum Programming and QML; a Comprehensive Roadmap
-![Build Status]((https://github.com/Symbiosis-Quantum-Club/Quantum-Computing-and-QML-a-Comprehensive-Roadmap/actions/workflows/your-workflow.yml/badge.svg )
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+![License](https://img.shields.io/badge/license-Apache2.0-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
 
 
