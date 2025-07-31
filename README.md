@@ -58,7 +58,7 @@ Techniques for circuit transpilation and error mitigation in Cirq.
 - 10_BB84Algo_Quantum_Key_Distribution.ipynb
 Implementation of the BB84 protocol for secure quantum key distribution.
 
-- 11. Intro to TensorFlowQuantum.ipynb
+- 11_Intro to TensorFlowQuantum.ipynb
 Overview of TensorFlow Quantum and its integration with quantum machine learning.
 
 - 12_Intro_To_PennyLane.ipynb
