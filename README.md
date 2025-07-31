@@ -1,4 +1,8 @@
 # Quantum Programming and QML; a Comprehensive Roadmap
+![Build Status](https://github.com/yourusername/repo-name/actions/workflows/your-workflow.yml/badge.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
+
 
 ## Overview:
 
