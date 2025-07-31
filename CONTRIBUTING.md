@@ -1,4 +1,4 @@
-###Here's how you can help contribute:
+## **Here's how you can help contribute:**
 
 Thank you for your interest in contributing to this repository! We welcome contributions from everyone, whether you're a beginner or an experienced developer. Your contributions help improve the quality of the content and make quantum programming more accessible to learners.
 
