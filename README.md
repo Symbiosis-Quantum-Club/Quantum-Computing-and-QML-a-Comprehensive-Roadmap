@@ -117,10 +117,14 @@ Further Concepts
 ---
 ## Getting Started:
 
-1. Clone this repo.
+To begin your journey into Quantum Programming and Quantum Machine Learning, follow these steps:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Symbiosis-Quantum-Club/Quantum-Computing-and-QML-a-Comprehensive-Roadmap
+   cd Quantum-Computing-and-QML-a-Comprehensive-Roadmap
 2. `pip install qiskit` (ensure latest 2.x version) along with optional extras (`qiskit-aer`, `qiskit-ibm-runtime`, etc.).
-3. Load your IBM Quantum account token via `IBMQ.save_account(...)`.
-4. Launch notebooks sequentially, adapting and extending code for learning and demonstration.
+3. Launch notebooks sequentially, adapting and extending code for learning and demonstration.
 
 ---
 
