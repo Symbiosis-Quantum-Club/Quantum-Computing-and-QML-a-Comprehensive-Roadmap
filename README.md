@@ -83,7 +83,6 @@ Overview of TensorFlow Quantum and its integration with quantum machine learning
 Introduction to PennyLane, a library for quantum machine learning and differentiable programming.
 
 - *13_Quantum_Machine_Learning_A_Basic_Pipeline.ipynb* ;
-  
 A basic pipeline for implementing quantum machine learning algorithms.
 ---
 
