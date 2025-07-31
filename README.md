@@ -22,27 +22,50 @@ This repository contains a structured roadmap of **Quantum Programming and Quant
 ---
 ## Sequential Project List:
 
-1. **“Hello World” & Bell State**
-   - Create and run a 2-qubit entanglement circuit on simulator and real QPU.
-2. **Single‑Qubit Superposition & RNG**
-   - Use Hadamard gates to generate random bits; build an RNG service.
-3. **Grover’s Search Algorithm**
-   - Design oracle and diffuser to implement Grover’s search on small datasets.
-4. **Shor’s Algorithm (Small Integers)**
-   - Factor a small integer (e.g., 15) using QFT and phase estimation.
-5. **VQE for Simple Molecule**
-   - Compute ground-state energy of H₂ or LiH via VQE hybrid workflow.
-6. **Error Correction: Repetition Code**
-   - Build logical qubits using repetition encoding and decode against noise.
-7. **QAOA for 3‑Node Max‑Cut**
-   - Solve a Max‑Cut problem using QAOA with cost and mixer circuits.
-8. **Portfolio Optimization**
-   - Map 3–8 stock portfolios to QAOA or amplitude estimation tasks.
-9. **Circuit Transpilation & Error Mitigation**
-   - Optimize circuits for target backend and apply mitigation techniques.
-10. **Qiskit Pulse & Hardware Calibration**
-    - Explore pulse-level control, backend characteristics, and custom gate generation.
+0_InitialisingQiskit.ipynb
+Introduction to setting up and initializing the Qiskit framework for quantum computing.
 
+1__Intro_to_Cirq.ipynb
+Introduction to Cirq, a framework for quantum computing developed by Google.
+
+2_QiskitRNG.ipynb
+Building a random number generator using Qiskit and quantum principles.
+
+3_Grovers_Search_Algorithm_and_Applications.ipynb
+Implementation of Grover's search algorithm and its applications in database searching.
+
+4_UnderstandingShorsAlgo_inCirq.ipynb
+Understanding and implementing Shor's algorithm for integer factorization using Cirq.
+
+4_UnderstandingShorsAlgo_inQiskit.ipynb
+Understanding and implementing Shor's algorithm for integer factorization using Qiskit.
+
+5.VQE and its applications.ipynb
+Variational Quantum Eigensolver (VQE) and its applications in quantum chemistry.
+
+6_LogicalQubits.ipynb
+Construction of logical qubits using quantum error correction techniques.
+
+7_Solving_MaxCut_using_QAOA.ipynb
+Solving the Max-Cut problem using the Quantum Approximate Optimization Algorithm (QAOA).
+
+8_Portfolio_Optimization_with_QAOA.ipynb
+Application of QAOA for optimizing stock portfolios in finance.
+
+9_Cirq_Circuit_Transpilation_and_Error_Mitigation.ipynb
+Techniques for circuit transpilation and error mitigation in Cirq.
+
+10_BB84Algo_Quantum_Key_Distribution.ipynb
+Implementation of the BB84 protocol for secure quantum key distribution.
+
+11. Intro to TensorFlowQuantum.ipynb
+Overview of TensorFlow Quantum and its integration with quantum machine learning.
+
+12_Intro_To_PennyLane.ipynb
+Introduction to PennyLane, a library for quantum machine learning and differentiable programming.
+
+13_Quantum_Machine_Learning_A_Basic_Pipeline.ipynb
+A basic pipeline for implementing quantum machine learning algorithms.
 ---
 
 ## Learning Outcomes:
