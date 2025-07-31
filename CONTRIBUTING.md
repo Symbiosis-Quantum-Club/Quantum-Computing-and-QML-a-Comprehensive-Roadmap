@@ -1,8 +1,7 @@
 ## **Here's how you can help contribute:**
 
-Thank you for your interest in contributing to this repository! We welcome contributions from everyone, whether you're a beginner or an experienced developer. Your contributions help improve the quality of the content and make quantum programming more accessible to learners.
+Thank you for your interest in contributing to this repository! We welcome contributions from everyone, whether you're a beginner or an experienced developer. Your contributions help improve the quality of the content and make quantum programming more accessible to everyone!
 
-## How to Contribute
 
 ### 1. Fork the Repository
 Start by forking the repository to your own GitHub account. This allows you to make changes without affecting the original project.
