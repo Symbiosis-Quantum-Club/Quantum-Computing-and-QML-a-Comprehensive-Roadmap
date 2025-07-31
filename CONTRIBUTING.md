@@ -19,25 +19,25 @@ Before making any changes, create a new branch for your feature or fix:
 git checkout -b feature/your-feature-name
 ```
 
-##4. Make Your Changes
+###4. Make Your Changes
 Make your changes in the appropriate Jupyter notebook or documentation file. Ensure that your code follows the existing style and conventions used in the repository.
 
-##5. Test Your Changes
+###5. Test Your Changes
 Run the notebooks to ensure that everything works as expected. If you’ve added new features or made significant changes, consider adding tests to verify their functionality.
 
-##6. Commit Your Changes
+###6. Commit Your Changes
 Once you are satisfied with your changes, commit them with a clear and descriptive message:
 ```bash
 git add .
 git commit -m "Add a brief description of your changes"
 ```
 
-##7. Push to Your Fork
+###7. Push to Your Fork
 Push your changes to your forked repository:
 
 ```bash
 git push origin feature/your-feature-name
 ```
 
-##8. Create a Pull Request
+###8. Create a Pull Request
 Go to the original repository on GitHub and create a pull request (PR) from your branch. Provide a clear description of your changes and why they are beneficial to the project.
