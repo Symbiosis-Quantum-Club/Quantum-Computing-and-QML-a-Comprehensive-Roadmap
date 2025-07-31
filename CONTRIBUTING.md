@@ -40,3 +40,18 @@ git push origin feature/your-feature-name
 
 ### 8. Create a Pull Request
 Go to the original repository on GitHub and create a pull request (PR) from your branch. Provide a clear description of your changes and why they are beneficial to the project.
+
+---
+
+### Guidelines for Contributions
+- Code Quality: Ensure that your code is clean, well-organized, and follows the existing coding style.
+- Documentation: Always update the documentation to reflect your changes. This includes the README.md and all relevant notebook comments.
+- Issue Tracking: If you find a bug or have a feature request, please open an issue in the repository. This helps us keep track of improvements and fixes.
+- Respect the Community: Be respectful and constructive in your interactions with other contributors. We aim to create a welcoming environment for everyone.
+   We hope your changes will improve the learning quality of our repository.
+
+### Additional Resources
+[Github Flow](https://docs.github.com/en/get-started/using-github/github-flow) - A guide to the GitHub workflow.
+[Markdown Guide](https://www.markdownguide.org/) - A resource for writing in Markdown.
+
+Thank You!
