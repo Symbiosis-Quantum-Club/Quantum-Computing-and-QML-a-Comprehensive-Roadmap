@@ -7,6 +7,7 @@
 ## Overview:
 
 This repository contains a structured roadmap of **Quantum Programming and Quantum Machine Learning**, designed to guide learners from fundamental concepts to advanced quantum computing techniques. Each project focuses on a key aspect of Qiskit and Cirq, enabling us to build a solid foundation in quantum circuits and algorithms and develop device-level understanding using transpilation, mitigation, and pulse control.
+All you need is a fundamental understanding of Python to get started!
 
 ---
 ## What is Qiskit?
@@ -83,12 +84,13 @@ Overview of TensorFlow Quantum and its integration with quantum machine learning
 Introduction to PennyLane, a library for quantum machine learning and differentiable programming.
 
 - *13_Quantum_Machine_Learning_A_Basic_Pipeline.ipynb* ;
+
 A basic pipeline for implementing quantum machine learning algorithms.
 ---
 
 ## Learning Outcomes:
 
-- **Circuit fundamentals** (gates, measurement, entanglement, sampling)
+- **Circuit fundamentals** (quantum gates, measurement, entanglement, sampling)
 - **Core quantum algorithms** (Grover’s, Shor’s, QAOA, VQE)
 - **Practical application domains**: chemistry, portfolio finance, and error correction
 - **Hardware awareness**: transpilation, error mitigation, and pulse programming
@@ -96,7 +98,7 @@ A basic pipeline for implementing quantum machine learning algorithms.
 
 ---
 
-## Teaching Framework
+## Learning Framework
 
 Each project includes:
 
