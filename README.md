@@ -1,4 +1,4 @@
-# Quantum Programming and QML; a Comprehensive Roadmap
+# Quantum Computing and QML; a Comprehensive Roadmap
 
 ![License](https://img.shields.io/badge/license-Apache2.0-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
@@ -6,7 +6,7 @@
 
 ## Overview:
 
-This repository contains a structured roadmap of **Quantum Programming and Quantum Machine Learning**, designed to guide learners from fundamental concepts to advanced quantum computing techniques. Each project focuses on a key aspect of Qiskit and Cirq, enabling us to build a solid foundation in quantum circuits and algorithms and develop device-level understanding using transpilation, mitigation, and pulse control.
+This repository contains a structured roadmap of **Quantum Computing and Quantum Machine Learning**, designed to guide learners from fundamental concepts to advanced quantum computing techniques. Each project focuses on a key aspect of Qiskit and Cirq, enabling us to build a solid foundation in quantum circuits and algorithms and develop device-level understanding using transpilation, mitigation, and pulse control.
 
 All you need is a fundamental understanding of Python to get started!
 
